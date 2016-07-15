@@ -5,6 +5,10 @@
             "details": "https://github.com/nakosung/test-package-unreal.js"
         },
         {
+            "name": "Getnamo's Package Test",
+            "details": "https://github.com/getnamo/unreal.js-test-package.git"
+        },
+        {
             "name": "Unreal convnetjs",
             "details": "https://github.com/nakosung/unreal-convnetjs"
         }
